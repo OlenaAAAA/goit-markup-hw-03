@@ -15,6 +15,25 @@ body {
   background-color: var(--bodycolor);
 }
 
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+img {
+  display: block;
+}
+
 :root {
   --accent-color: #2e2f42;
   --color: #4d5ae5;
@@ -23,6 +42,8 @@ body {
   --ocean-color: #404bbf;
   --slate-color: #434455;
 }
+
+/* HEADER */
 
 .logo {
   font-family: Raleway, sans-serif;
