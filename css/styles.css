@@ -60,6 +60,7 @@ img {
   color: var(--color);
   padding-top: 24px;
   padding-bottom: 24px;
+  margin-right: 76px;
 }
 
 .logo-studio {
@@ -96,6 +97,9 @@ img {
   align-items: center;
 }
 
+.page-nav {
+  align-items: center;
+}
 .nav-header-container,
 .list-header-container,
 .tel-mail-header-container {
@@ -109,7 +113,6 @@ img {
 }
 
 .list-header-container {
-  margin-left: 76px;
   gap: 40px;
 }
 
