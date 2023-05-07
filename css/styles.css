@@ -117,10 +117,10 @@ img {
   gap: 40px;
 }
 
-.tel-mail-header-container {
+/* .tel-mail-header-container {
   display: flex;
   gap: 40px;
-}
+} */
 
 /* ADDRESS */
 
@@ -141,6 +141,8 @@ img {
 
 .header-tel-mail {
   font-style: normal;
+  display: flex;
+  gap: 40px;
 }
 
 /* border для header(а)  */
