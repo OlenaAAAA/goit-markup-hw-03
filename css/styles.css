@@ -139,8 +139,11 @@ img {
   color: var(--ocean-color);
 }
 
-.tel-mail-header {
+.header-tel-mail {
   font-style: normal;
+}
+
+.tel-mail-header {
   display: flex;
   gap: 40px;
 }
@@ -425,7 +428,7 @@ img {
 
 .portfolio-cards-list-item {
   display: flex;
-  width: calc((100%-48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 
 .portf-list-item-descr {
