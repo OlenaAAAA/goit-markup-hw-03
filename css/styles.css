@@ -139,7 +139,7 @@ img {
   color: var(--ocean-color);
 }
 
-.header-tel-mail {
+.tel-mail-header-container {
   font-style: normal;
   display: flex;
   gap: 40px;
