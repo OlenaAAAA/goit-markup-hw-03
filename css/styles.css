@@ -57,11 +57,15 @@ img {
   padding: 0 15px;
   margin: 0 auto;
   /* background-color: tomato; */
-  display: flex;
+  /* display: flex; */
   align-items: center;
 }
 
 /* HEADER */
+
+.page-header-container {
+  display: flex;
+}
 
 .logo {
   font-family: Raleway, sans-serif;
@@ -161,7 +165,7 @@ img {
   background-color: var(--accent-color);
   padding-top: 188px;
   padding-bottom: 188px;
-  max-width: 1158px;
+  /* max-width: 1158px; */
   margin: auto;
   /* outline-color: fuchsia;
   outline-width: 10px;
